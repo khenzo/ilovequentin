@@ -18,11 +18,6 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: url
   label: Url
   type: textarea
@@ -36,3 +31,6 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+- type: datetime
+  name: date
+  label: Date
