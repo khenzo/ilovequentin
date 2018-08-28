@@ -1,0 +1,49 @@
+name = "I LOVE QUENTIN"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+homepage = "http://ilovequentin.it/"
+tags = []
+features = []
+min_version = "0.38"
+title = "I Love Quentin"
+theme = "default"
+summaryLength = 30
+
+[frontmatter]
+date = ["date","publishDate", "lastmod"]
+lastmod = [":git", "lastmod", "date","publishDate"]
+publishDate = ["publishDate", "date"]
+expiryDate = ["expiryDate"]
+
+[author]
+  name = "Vincenzo Prencipe"
+  homepage = "http://ilovequentin.it"
+
+
+[menu]
+  [[menu.header]]
+    weight = 1
+    name = "Home"
+    url = "/"
+  [[menu.header]]
+    weight = 2
+    name = "Blog"
+    url = "/blog"
+
+
+# The site's parameters
+[params]
+  date_format = "6 January 2006"
+  home = "Home"
+  description = "Non è con le chiacchiere che uscirai da questa merda"
+  subDescription = "Jules Winnfield - Pulp Fiction"
+  avatar= "https://pbs.twimg.com/profile_images/743440009185865728/0Bqrm5MB_bigger.jpg"
+
+  [params.hero]
+     enable = true
+     title = "Titolo della mia sezione Hero"
+     subtitle = "Experience the nice design and awesome features"
+     [params.hero.button]
+       enabled = true
+       caption = "Download the app"
+       url = "#"

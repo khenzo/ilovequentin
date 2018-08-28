@@ -1,0 +1,27 @@
+---
+title: La domenica non esco mai
+author: Quentin
+type: post
+date: 2009-09-28T08:32:59+00:00
+url: /2009/09/28/la-domenica-non-esco-mai
+featured_image:
+  - /wp-content/uploads/2009/09/tette.jpg
+ographr_urls:
+  - '[{"img":"http://www.ilovequentin.it/wp-content/uploads/2009/09/perugia.jpg"},{"img":"http://www.ilovequentin.it/wp-content/uploads/2009/09/tette.jpg"},{"img":"http://www.ilovequentin.it/wp-content/uploads/2009/09/perugia-300x92.jpg"}]'
+ographr_indexed:
+  - "1372360886"
+categories:
+  - Dalle verdi colline di Hollywood
+
+---
+<img class="alignnone size-full wp-image-550" title="perugia" src="http://www.ilovequentin.it/wp-content/uploads/2009/09/perugia.jpg" alt="perugia" width="520" height="160" />
+
+Qui a Perugia uscire la domenica sera è un problema. Non sto scherzando, che sembra che vai controcorrente come un salmone, la domenica, mentre risali le ripide scale che ti portano fin su l&#8217;acropoli. Soprattutto quando inizia la stagione fredda, a Perugia, la domenica, ti deve dire proprio culo che trovi un pub aperto, ad esempio. Che io la domenica, a Perugia, non esco proprio mai, ed ora capisco perché. Perugia è bella, per carità, che anche una passeggiata, anche se è cattivo tempo, piovigina e tira vento (tira sempre vento in centro, a Perugia, tranne d&#8217;estate) te la fai volentieri, ma mai di domenica.
+
+L&#8217;altro ieri ho conosciuto una bella brunetta dal viso che sorride tutto, di quelle che un pensiero, ma anche più di un pensiero, ce lo fai tutto. La brunetta, che ha anche un seno prosperoso, oltre al sorriso prosperoso, un seno che, diciamo, sorride tutto, mi ha detto: &#8220;perché non andiamo a bere qualcosa in centro?&#8221;. Guardo il calendario, è domenica. Guardo fuori dalla finestra, è domenica pomeriggio. Guardo il forno, segna 180 gradi centigradi, grill, ventilato che sto cucinando l&#8217;orata al cartoccio. La brunetta ha un culo, un culo davvero messo bene, che oltre al sorriso, un culo che sorride davvero tutto, di traverso però. Allora le dico: &#8220;ok&#8221;. Le dico ok proprio di domenica.
+
+Alcune ore dopo, non troppe, che è ancora domenica, ci incontriamo alla Fontana Maggiore che tutti, proprio tutti, a Perugia, si incontrano alla Fontana Maggiore, che è come &#8220;la statua&#8221; al concerto del primo maggio, tutti ad incontrarsi lì sotto e poi nessuno si trova, alla fine. Lei arriva con il suo sorriso e tutto il resto. Piovigina e tira vento, il corso è semi deserto, l&#8217;atmosfera piacevolmente romantica. Lei, la brunetta, mentre scende per via della Viola ha un culo strepitoso che ballonzola all&#8217;incespicare dei tacchi nei sampietrini umidi. Io mi attardo facendo finta di allacciarmi le scarpe, per guardarla. Già sorride di meno ad ogni passo. Quando arriviamo al Loop, un localino a metà della via, smette completamente di sorridere. La serranda è blindata come la vetrina di un Mc Donald&#8217;s nei giorni del G8.<!--more-->
+
+Risaliamo e andiamo in quel posto lì, in quel posto dove non vado mai, dove dicono ci vanno sempre gli studenti stranieri, le studentesse straniere, i cani stranieri ad ubriacarsi di aperol soda ballando seminudi sul bancone, che più e più volte l&#8217;Asl ha detto che i cani, a ballare sul bancone, proprio no. Non trovo nulla di tutto ciò; evidentemente, dopo l&#8217;omicidio Kercher, Perugia, non è più la stessa. Ora trasmettono la partita mentre prima secchiate di film di Russ Meyer, Bigas Luna. Io abbozzo una smorfia intellettuale di disgusto, e metto la faccia quella solita tipo Nanni Moretti, per stare sicuro. La brunetta non gradisce ma sbottona il trench bianco e poggia delicatamente le poppe sul tavolo. Fantastiche poppe di cristallo come solo la statua della sirenetta scolpita nel giaccio, che dentro vedo scorrere il latte. Poi però mi accorgo che, nelle tette, non c&#8217;è il latte, ma una sostanza gommosa, giallognola, diciamo come il burro salato infatti, le tette, se le assaggiate, hanno il sapore uguale alla colazione del sabato, quella con i toast, la marmellata ed il burro appunto. Gli uomini però pensano sempre alle tette come a delle mammelle di mucca, che fanno il latte come se fosse la cosa più naturale del mondo invece, il latte delle donne, è più simile ad un miracolo, un miracolo della natura o di dio, per nulla diverso dalla liquefazione del sangue di San Gennaro. Lascio andare i miei pensieri e torno alla realtà che mi sento mediamente stupido ma poi mi dico che non è colpa mia se nell&#8217;unico pub aperto, a Perugia, di domenica, danno la partita, che io di domenica, a Perugia, non esco proprio mai e adesso capisco perché. Perché c&#8217;è il campionato porcaputtana e per fare la colazione, quella buona, manca ancora quasi una settimana.
+
+<a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.ilovequentin.it%2F2009%2F09%2F28%2Fla-domenica-non-esco-mai&t=La%20domenica%20non%20esco%20mai" id="facebook_share_both_545" style="font-size:11px; line-height:13px; font-family:'lucida grande',tahoma,verdana,arial,sans-serif; text-decoration:none; padding:2px 0 0 20px; height:16px; background:url(http://b.static.ak.fbcdn.net/images/share/facebook_share_icon.gif) no-repeat top left;">Share on Facebook</a>
