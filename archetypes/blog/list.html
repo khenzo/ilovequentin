@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+  <body>
+  {{ partial "header.html" . }}
+    <div class="container">
+      <div class="row">
+        <!-- Latest Posts -->
+        <main class="posts-listing col-lg-8"> 
+          <div class="container">
+            <div class="row">
+              <!-- post -->
+              {{ range $taxonomyname, $taxonomy := .Site.Taxonomies.categories }}
+              {{ $taxonomyname := replace $taxonomyname "-" " " }}
+              {{ if ne $taxonomyname "featured" }}
+              <div class="clearfix col-md-12 col-sx-12">
+                <h3 class="mb-4 h4"><a href="/{{ $taxonomyname | urlize }}">{{ upper $taxonomyname }}</a></h3>
+              </div>
+               <!--<h3 class="h4"><a href="/{{ $taxonomyname | urlize }}"></a></h3>-->
+                {{ $.Scratch.Set "count" 0 }}
+                  {{ range $key, $value := $taxonomy.Pages.ByDate.Reverse }}
+                  {{$count := $.Scratch.Get "count"}}
+                  {{ if lt $count 2 }}
+              <div class="post col-xl-6">
+                <div class="post-thumbnail">
+                 <a href={{.Permalink}}>
+                    <img src="{{.Params.featured_image }}" alt="" class="img-fluid"></a>
+                  </a>
+                </div>
+                <div class="post-details">
+                  <div class="post-meta d-flex justify-content-between">
+                    <div class="date meta-last">{{ .Date.Format "January 2, 2006" }}</div>
+                  </div><a href="{{.Permalink}}">
+                  <h3 class="h4">{{.Title}}</h3></a>
+                  <div class="category">
+                    {{ range first 2 ( .Params.categories) }}
+                    {{ if ne . "Featured" }}
+                    <a href="#">{{.}}</a>
+                    {{ end }}
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+                  {{ $.Scratch.Add "count" 1 }}
+                  {{ end }}
+                  {{ end }}
+              {{ end }}
+              {{ end }}
+            </div>
+            <!-- Pagination -->
+
+          </div>
+        </main>
+        {{ partial "aside.html" . }}
+      </div>
+    </div>
+    <!-- Page Footer-->
+  {{ partial "footer.html" . }}
+  </body>
+</html>
