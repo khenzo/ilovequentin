@@ -2,7 +2,6 @@
 author = "khenzo"
 categories = []
 date = "2018-08-28T11:22:57+00:00"
-draft = true
 featured_image = "/uploads/wp-content/uploads/2089481889_ea685e9fb2_b.jpg"
 title = "Mindscape n. 1579432"
 type = "post"
