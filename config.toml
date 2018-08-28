@@ -38,12 +38,3 @@ expiryDate = ["expiryDate"]
   description = "Non è con le chiacchiere che uscirai da questa merda"
   subDescription = "Jules Winnfield - Pulp Fiction"
   avatar= "https://pbs.twimg.com/profile_images/743440009185865728/0Bqrm5MB_bigger.jpg"
-
-  [params.hero]
-     enable = true
-     title = "Titolo della mia sezione Hero"
-     subtitle = "Experience the nice design and awesome features"
-     [params.hero.button]
-       enabled = true
-       caption = "Download the app"
-       url = "#"
