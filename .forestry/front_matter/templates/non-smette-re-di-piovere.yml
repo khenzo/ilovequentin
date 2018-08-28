@@ -34,3 +34,5 @@ fields:
 - type: datetime
   name: date
   label: Date
+pages:
+- content/posts/ultimo-post-a-milano/mindscape-n-1579432.md
