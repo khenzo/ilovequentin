@@ -34,3 +34,5 @@ fields:
 - type: datetime
   name: date
   label: Date
+pages:
+- content/posts/mindscape-n-1579432.md
