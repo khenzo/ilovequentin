@@ -1,7 +1,7 @@
 ---
 label: Non smette(re) di piovere
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -28,13 +28,11 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: featured_image
-  label: Featured image
-  type: list
-  hidden: false
-  default: ''
 - name: categories
   label: Categories
   type: tag_list
   hidden: false
   default: ''
+- type: file
+  name: featured_image
+  label: Featured Image
