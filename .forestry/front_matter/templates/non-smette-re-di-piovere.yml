@@ -1,5 +1,5 @@
 ---
-label: Non smette(re) di piovere
+label: Post
 hide_body: false
 is_partial: false
 fields:
@@ -34,5 +34,3 @@ fields:
 - type: datetime
   name: date
   label: Date
-pages:
-- content/posts/mindscape-n-1579432.md
