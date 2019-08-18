@@ -2,7 +2,7 @@
 author = "Quentin"
 categories = ["Dalle verdi colline di Hollywood"]
 date = "2019-08-01T22:00:00+00:00"
-featured_image = "/uploads/wp-content/uploads/insta.jpg"
+featured_image = "/uploads/wp-content/uploads/insta6.jpg"
 title = "Sei bella Milano"
 type = "post"
 url = ""
