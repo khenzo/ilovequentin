@@ -2,7 +2,6 @@
 author = "Quentin"
 categories = []
 date = "2018-12-16T23:00:00+00:00"
-draft = true
 featured_image = "/uploads/wp-content/uploads/insta4.jpg"
 title = "Di pesi e misure"
 type = "post"
