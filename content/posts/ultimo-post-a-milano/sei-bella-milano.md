@@ -1,6 +1,6 @@
 +++
 author = "Quentin"
-categories = ["Ultimo post a Milano", "Featured"]
+categories = []
 date = "2019-08-01T22:00:00+00:00"
 featured_image = "/uploads/wp-content/uploads/insta.jpg"
 title = "Sei bella Milano"
