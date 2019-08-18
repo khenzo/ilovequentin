@@ -2,7 +2,6 @@
 author = "Quentin"
 categories = ["Feature ", "Ultimo post a Milano"]
 date = ""
-draft = true
 featured_image = "/uploads/wp-content/uploads/insta.jpg"
 title = "Sei bella Milano"
 type = "post"
