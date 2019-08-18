@@ -34,6 +34,7 @@ fields:
   name: date
   label: Date
 pages:
+- content/posts/dalle-verdi-colline-di-hollywood/di-nuovo-onda.md
 - content/posts/ultimo-post-a-milano/pensiero-fine.md
 - content/posts/dalle-verdi-colline-di-hollywood/un-bordo-dopo-l-altro.md
 - content/posts/ultimo-post-a-milano/uno-strano-vento.md
