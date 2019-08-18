@@ -1,7 +1,7 @@
 +++
 author = "Quentin"
 categories = ["Dalle Verdi Colline Di Hollywood"]
-date = ""
+date = "2019-02-06T23:00:00+00:00"
 draft = true
 featured_image = ""
 title = "Un bordo dopo l'altro"
