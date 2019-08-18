@@ -2,8 +2,7 @@
 author = "Quentin"
 categories = ["Dalle Verdi Colline Di Hollywood"]
 date = "2019-02-06T23:00:00+00:00"
-draft = true
-featured_image = ""
+featured_image = "/uploads/wp-content/uploads/insta5.jpg"
 title = "Un bordo dopo l'altro"
 type = "post"
 url = ""
