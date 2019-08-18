@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -35,4 +34,5 @@ fields:
   name: date
   label: Date
 pages:
+- content/posts/dalle-verdi-colline-di-hollywood/saper-far-niente.md
 - content/posts/ultimo-post-a-milano/mindscape-n-1579432.md
