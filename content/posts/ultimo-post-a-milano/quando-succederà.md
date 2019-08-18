@@ -2,7 +2,6 @@
 author = "Quentin"
 categories = []
 date = "2019-03-20T23:00:00+00:00"
-draft = true
 featured_image = "/uploads/wp-content/uploads/inst2.jpg"
 title = "Quando succederà"
 type = ""
