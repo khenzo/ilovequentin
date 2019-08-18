@@ -34,6 +34,7 @@ fields:
   name: date
   label: Date
 pages:
+- content/posts/dalle-verdi-colline-di-hollywood/da-dove-tira-il-vento.md
 - content/posts/dalle-verdi-colline-di-hollywood/la-prossima-volta.md
 - content/posts/dalle-verdi-colline-di-hollywood/la-casuale-o-forse-no-prsenza-di-benicio-del-toro-nella-mia-vita.md
 - content/posts/dalle-verdi-colline-di-hollywood/di-nuovo-onda.md
