@@ -34,6 +34,7 @@ fields:
   name: date
   label: Date
 pages:
+- content/posts/planet-terron/quando-succederà.md
 - content/posts/ultimo-post-a-milano/quando-succederà.md
 - content/posts/ultimo-post-a-milano/sei-bella-milano.md
 - content/posts/dalle-verdi-colline-di-hollywood/saper-far-niente.md
