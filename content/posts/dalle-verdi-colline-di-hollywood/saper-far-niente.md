@@ -1,11 +1,11 @@
 +++
-author = "Khenzo"
+author = "Quentin"
 categories = []
-date = ""
+date = "2019-07-31T22:00:00+00:00"
 draft = true
-featured_image = ""
+featured_image = "/uploads/wp-content/uploads/67613781_10156803550793773_1359173616641507328_o.jpg"
 title = "Saper far niente"
-type = ""
+type = "post"
 url = ""
 
 +++
