@@ -1,6 +1,6 @@
 +++
 author = "Quentin"
-categories = []
+categories = ["Dalle verdi colline di Hollywood"]
 date = "2019-08-01T22:00:00+00:00"
 featured_image = "/uploads/wp-content/uploads/insta.jpg"
 title = "Sei bella Milano"
