@@ -1,6 +1,6 @@
 +++
 author = "Khenzo"
-categories = []
+categories = ["featured"]
 date = 2019-12-11T22:00:00Z
 featured_image = "/uploads/wp-content/uploads/IMG_20191212_003513.jpg"
 title = "Quarta di copertina"
