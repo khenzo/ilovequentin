@@ -8,7 +8,7 @@ type = "post"
 url = "quarta-di-copertins"
 
 +++
-Ogni tanto mi capita di ripassare con gli occhi i libri stretti sulla mensala, sù in mansarda. Sono allineati su quest'asse di legno chiaro disposto in basso a causa della scarsa altezza della parete e che si estende per tutta la lunghezza della stanza. Prima, quei libri erano impilati in una vecchio scaffale in soggiorno, scadente e sbilenco, mentre ora al suo posto fa bella mostra un giradischi bianco su un mobiletto bianco per cui ho dovuto spostare i libri sù in mansarda e buttar via quello scaffale ormai sciancato dagli innumerevoli traslochi. 
+Ogni tanto mi capita di ripassare con gli occhi i libri stretti sulla mensola, sù in mansarda. Sono allineati su quest'asse di legno chiaro disposto in basso a causa della scarsa altezza della parete e che si estende per tutta la lunghezza della stanza. Prima, quei libri erano impilati in una vecchio scaffale in soggiorno, scadente e sbilenco, mentre ora al suo posto fa bella mostra un giradischi bianco su un mobiletto bianco per cui ho dovuto spostare i libri sù in mansarda e buttar via quello scaffale ormai sciancato dagli innumerevoli traslochi. 
 
 Sullo scaffale sciancato i libri erano ordinati per colore perché così piaceva a qualcuno che era passato da quelle parti e a me la cosa non dispiaceva. Ora che li ho spostati su in mansarda, qualcuno dei libri è rimasto casualmente con la precedente disposizione perché li rimossi in blocco ma per il resto sono lì messi a casaccio, senza nessun ordine se non per gli ultimi letti che sono in fondo alla mensola e che comunque "gli ultimi letti" non è una tassonomia ragguardevole. 
 
