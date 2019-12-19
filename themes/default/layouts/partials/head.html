@@ -63,7 +63,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
 
     <!-- Facebook OpenGraph tags -->
-    {{ $is_blog := and (eq .Type "blog") (eq .Kind "page") }}
+    {{ $is_blog := and (eq .Type "post") (eq .Kind "page") }}
     {{ $has_image :=  isset .Params "banner" }}
     {{ $image := cond $has_image .Params.banner (.Site.Params.default_sharing_image | default "img/sharing-default.png") }}
     {{ $is_valid_image := print "static/" $image | fileExists }}
@@ -72,7 +72,7 @@
     <meta property="og:locale" content="{{ replace .Site.LanguageCode "-" "_" }}">
     <meta property="og:site_name" content="{{ .Site.Title }}">
     <meta property="og:title" content="{{ $title_plain }}">
-    <meta property="og:type" content="{{ cond $is_blog "article" "website" }}">
+    <meta property="og:type" content="article">
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:description" content="{{ $description_plain }}">
     <meta property="og:image" content="{{ $image | absURL }}">
