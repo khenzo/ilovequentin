@@ -2,7 +2,7 @@
 author = "Khenzo"
 categories = ["featured"]
 date = 2019-12-11T22:00:00Z
-featured_image = "/uploads/wp-content/uploads/IMG_20191212_003513.jpg"
+featured_image = "/uploads/wp-content/uploads/39518197282_a87629b905_c.jpg"
 title = "Quarta di copertina"
 type = "post"
 url = "quarta-di-copertins"
