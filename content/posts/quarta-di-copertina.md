@@ -5,12 +5,12 @@ date = 2019-12-11T22:00:00Z
 featured_image = "/uploads/wp-content/uploads/39518197282_a87629b905_c.jpg"
 title = "Quarta di copertina"
 type = "post"
-url = "quarta-di-copertins"
+url = "quarta-di-copertina"
 
 +++
-Ogni tanto mi capita di ripassare con gli occhi i libri stretti sulla mensola, sù in mansarda. Sono allineati su quest'asse di legno chiaro disposto in basso a causa della scarsa altezza della parete e che si estende per tutta la lunghezza della stanza. Prima, quei libri erano impilati in una vecchio scaffale in soggiorno, scadente e sbilenco, mentre ora al suo posto fa bella mostra un giradischi bianco su un mobiletto bianco per cui ho dovuto spostare i libri sù in mansarda e buttar via quello scaffale ormai sciancato dagli innumerevoli traslochi. 
+Ogni tanto mi capita di ripassare con gli occhi i libri stretti sulla mensola, sù in mansarda; sono allineati su quest'asse di legno chiaro disposto in basso a causa della scarsa altezza della parete e che si estende per tutta la lunghezza della stanza. Prima, quei libri erano impilati in una vecchio scaffale in soggiorno, scadente e sbilenco, mentre ora al suo posto fa bella mostra un giradischi bianco su un mobiletto bianco per cui ho dovuto spostare i libri sù in mansarda e buttar via quello scaffale ormai sciancato dagli innumerevoli traslochi. 
 
-Sullo scaffale sciancato i libri erano ordinati per colore perché così piaceva a qualcuno che era passato da quelle parti e a me la cosa non dispiaceva. Ora che li ho spostati su in mansarda, qualcuno dei libri è rimasto casualmente con la precedente disposizione perché li rimossi in blocco ma per il resto sono lì messi a casaccio, senza nessun ordine se non per gli ultimi letti che sono in fondo alla mensola e che comunque "gli ultimi letti" non è una tassonomia ragguardevole. 
+Sullo scaffale i libri erano ordinati per colore perché così piaceva a qualcuno che era passato da quelle parti e a me la cosa non dispiaceva. Ora che li ho spostati s in mansarda, qualcuno dei libri è rimasto casualmente con la precedente disposizione perché li rimossi in blocco ma per il resto sono lì messi a casaccio, senza nessun ordine se non per gli ultimi letti che sono in fondo alla mensola e che comunque "gli ultimi letti" non è una tassonomia ragguardevole. 
 
 Ogni tanto scorro i libri con lo sguardo per vedere se trovo qualcosa che non ho letto, perché sono troppo pigro per andare in libreria a comprarne di nuovi. L'altra sera mi sono imbattuto in un libro, pressappoco a metà della mensola, dalla copertina rosso scuro e dalle pagine che sembravano a prima vista poco scompigliate e ho pensato che fosse uno di quei libri sfuggiti alla lettura chissà quando e che poi si era mischiato e perso nel resto. "Così Vicino Incredibilmente Lontano" di Jonathan Safran Foer. Non ricordo assolutamente di averlo letto e in verità non ricordo nemmeno di averlo mai comprato e ho anche pensato che fosse strano trovare quel libro nella mia libreria perché non è il genere di libro che avrei comprato o che almeno non avrei mai comprato ora e, per certe cose, non è che io sia cambiato molto nel tempo. 
 
