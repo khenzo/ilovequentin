@@ -17,16 +17,13 @@ expiryDate = ["expiryDate"]
 lastmod = [":git", "lastmod", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 [[menu.header]]
-name = "Blog"
-url = "/blog"
-weight = 2
-[[menu.header]]
 name = "Home"
 url = "/"
 weight = 1
-[[menu.footer]]
+[[menu.header]]
 name = "Blog"
 url = "/blog"
+weight = 2
 [params]
 avatar = "https://drive.google.com/uc?export=view&id=1hlKlQ17D6Pf1VIwmIFXcpt2wkv6fOHEm"
 date_format = "6 January 2006"
