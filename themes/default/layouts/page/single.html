@@ -10,17 +10,7 @@
         <main class="post blog-post col-lg-8"> 
           <div class="container">
             <div class="post-single">
-              {{ if isset .Params "featured_image" }}
-                <div class="post-thumbnail"><img src="{{.Params.featured_image}}" alt="..." class="img-fluid"></div>
-              {{ end }}
               <div class="post-details">
-                <div class="post-meta d-flex justify-content-between">
-                  <div class="category">
-                    {{ range first 2 ( .Params.categories) }}
-                    <a href="#">{{.}}</a>
-                    {{ end }}
-                  </div>
-                </div>
                 <h1>{{.Title}}<a href="#"><i class="fa fa-bookmark-o"></i></a></h1>
                 <div class="post-footer d-flex align-items-center flex-column flex-sm-row"><a href="#" class="author d-flex align-items-center flex-wrap">
                     <div class="avatar"><img src="{{ .Site.Params.avatar }}" alt="..." class="img-fluid"></div>

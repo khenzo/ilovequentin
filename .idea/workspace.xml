@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbe3c5e0-f074-452f-b6ca-2f8f20e2e1e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.forestry/front_matter/templates/page.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.forestry/front_matter/templates/page.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/disclaimer.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/disclaimer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/layouts/page/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/default/layouts/page/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,11 +29,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/default/layouts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\hugo\ilovequentin\themes\default\layouts" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -45,7 +53,7 @@
       <updated>1576763618854</updated>
       <workItem from="1576763621368" duration="3279000" />
       <workItem from="1610965451954" duration="45000" />
-      <workItem from="1610967777079" duration="1573000" />
+      <workItem from="1610967777079" duration="1999000" />
     </task>
     <servers />
   </component>
