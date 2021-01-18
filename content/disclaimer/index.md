@@ -3,6 +3,9 @@ title: Disclaimer
 author: khenzo
 type: page
 date: 2008-06-15T11:56:40.000+00:00
+menu:
+  header:
+    weight: 4
 
 ---
 **Questo blog non rappresenta una testata giornalistica** in quanto viene aggiornato senza alcuna periodicità . Non può pertanto considerarsi un prodotto editoriale ai sensi della legge n° 62 del 7.03.2001.
