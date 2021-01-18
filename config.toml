@@ -1,40 +1,32 @@
-name = "I LOVE QUENTIN"
+features = []
+homepage = "http://ilovequentin.it/"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
-homepage = "http://ilovequentin.it/"
-tags = []
-features = []
 min_version = "0.38"
-title = "I Love Quentin"
-theme = "default"
+name = "I LOVE QUENTIN"
 summaryLength = 30
-
-[frontmatter]
-date = ["date","publishDate", "lastmod"]
-lastmod = [":git", "lastmod", "date","publishDate"]
-publishDate = ["publishDate", "date"]
-expiryDate = ["expiryDate"]
-
+tags = []
+theme = "default"
+title = "I Love Quentin"
 [author]
-  name = "Vincenzo Prencipe"
-  homepage = "http://ilovequentin.it"
-
-
-[menu]
-  [[menu.header]]
-    weight = 1
-    name = "Home"
-    url = "/"
-  [[menu.header]]
-    weight = 2
-    name = "Blog"
-    url = "/blog"
-
-
-# The site's parameters
+homepage = "http://ilovequentin.it"
+name = "Vincenzo Prencipe"
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+expiryDate = ["expiryDate"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+[[menu.header]]
+name = "Blog"
+url = "/blog"
+weight = 2
+[[menu.header]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
-  date_format = "6 January 2006"
-  home = "Home"
-  description = "Non è con le chiacchiere che uscirai da questa merda"
-  subDescription = "Jules Winnfield - Pulp Fiction"
-  avatar= "https://drive.google.com/uc?export=view&id=1hlKlQ17D6Pf1VIwmIFXcpt2wkv6fOHEm"
+avatar = "https://drive.google.com/uc?export=view&id=1hlKlQ17D6Pf1VIwmIFXcpt2wkv6fOHEm"
+date_format = "6 January 2006"
+description = "Non è con le chiacchiere che uscirai da questa merda"
+home = "Home"
+subDescription = "Jules Winnfield - Pulp Fiction"
