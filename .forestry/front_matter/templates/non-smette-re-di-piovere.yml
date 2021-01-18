@@ -34,7 +34,7 @@ fields:
   name: date
   label: Date
 pages:
-- content/me.html
+- content/me/me.html
 - content/posts/dalle-verdi-colline-di-hollywood/andr.html
 - content/posts/dalle-verdi-colline-di-hollywood/da-dove-tira-il-vento.md
 - content/posts/dalle-verdi-colline-di-hollywood/di-nuovo-onda.md
