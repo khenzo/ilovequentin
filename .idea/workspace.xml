@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbe3c5e0-f074-452f-b6ca-2f8f20e2e1e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.forestry/settings.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.forestry/settings.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/contatti/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/me/me.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/privacy-policy/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.forestry/front_matter/templates/non-smette-re-di-piovere.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <updated>1576763618854</updated>
       <workItem from="1576763621368" duration="3279000" />
       <workItem from="1610965451954" duration="45000" />
-      <workItem from="1610967777079" duration="2343000" />
+      <workItem from="1610967777079" duration="2670000" />
     </task>
     <servers />
   </component>
