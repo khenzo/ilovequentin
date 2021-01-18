@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbe3c5e0-f074-452f-b6ca-2f8f20e2e1e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.forestry/front_matter/templates/non-smette-re-di-piovere.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +51,17 @@
       <updated>1576763618854</updated>
       <workItem from="1576763621368" duration="3279000" />
       <workItem from="1610965451954" duration="45000" />
-      <workItem from="1610967777079" duration="2670000" />
+      <workItem from="1610967777079" duration="3626000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2518" y="281" key="MultipleFileMergeDialog" timestamp="1610973339127">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2518" y="281" key="MultipleFileMergeDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610973339127" />
   </component>
 </project>

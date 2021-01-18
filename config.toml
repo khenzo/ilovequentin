@@ -24,6 +24,9 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
+[[menu.footer]]
+name = "Blog"
+url = "/blog"
 [params]
 avatar = "https://drive.google.com/uc?export=view&id=1hlKlQ17D6Pf1VIwmIFXcpt2wkv6fOHEm"
 date_format = "6 January 2006"
