@@ -2,7 +2,7 @@
 title: Privacy policy
 author: khenzo
 type: page
-date: 2008-06-15T15:20:44+00:00
+date: 2008-06-15T15:20:44.000+00:00
 
 ---
 **Informativa Privacy (art.13 D.Lgs. 196/2003).**
@@ -13,6 +13,4 @@ Le opinioni ed i commenti postati dagli utenti e le informazioni e i dati in ess
 
 In ogni caso, l’utente ha in ogni momento la possibilità di esercitare i diritti di cui all’ art. 7 del D.Lgs. 196/2003.
 
-Per far valere tali diritti, l&#8217;Utente può rivolgersi direttamente al **Titolare del Trattamento dei Dati personali** all&#8217;indirizzo <span style="color: #ff0000;">vincenzo.prencipe[at]gmail.com.</span>
-
-<a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.ilovequentin.it%2Fprivacy-policy&t=Privacy%20policy" id="facebook_share_both_7" style="font-size:11px; line-height:13px; font-family:'lucida grande',tahoma,verdana,arial,sans-serif; text-decoration:none; padding:2px 0 0 20px; height:16px; background:url(http://b.static.ak.fbcdn.net/images/share/facebook_share_icon.gif) no-repeat top left;">Share on Facebook</a>
+Per far valere tali diritti, l’Utente può rivolgersi direttamente al **Titolare del Trattamento dei Dati personali** all’indirizzo <span style="color: #ff0000;">vincenzo.prencipe\[at\]gmail.com.</span>
