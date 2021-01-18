@@ -2,7 +2,7 @@
 title: Disclaimer
 author: khenzo
 type: page
-date: 2008-06-15T11:56:40.000+00:00
+date: 2008-06-15T11:56:40+00:00
 menu:
   header:
     weight: 4
