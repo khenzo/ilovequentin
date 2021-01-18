@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: me
+  path: content/me
   label: Me
   create: all
   match: "**/*"
