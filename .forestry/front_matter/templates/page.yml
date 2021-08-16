@@ -9,4 +9,5 @@ fields:
   label: Title
 pages:
 - content/disclaimer.html
+- content/posts/planet-terron/omero-paziente.html
 - content/privacy-policy.html
