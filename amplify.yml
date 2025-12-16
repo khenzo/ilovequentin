@@ -1,0 +1,18 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - wget https://github.com/gohugoio/hugo/releases/download/v0.152.2/hugo_extended_0.152.2_Linux-64bit.tar.gz
+        - tar -xf hugo_extended_0.152.2_Linux-64bit.tar.gz
+        - mv hugo /usr/bin/hugo
+        - rm -rf hugo_extended_0.152.2_Linux-64bit.tar.gz
+    build:
+      commands:
+        - hugo --minify
+  artifacts:
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths: []
