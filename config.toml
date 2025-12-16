@@ -26,7 +26,7 @@ name = "Blog"
 url = "/blog"
 weight = 2
 [params]
-avatar = "https://drive.google.com/uc?export=view&id=1hlKlQ17D6Pf1VIwmIFXcpt2wkv6fOHEm"
+avatar = "https://master.d23qr8rixqgzkl.amplifyapp.com/uploads/wp-content/uploads/122533319_340919227207092_8442906277893421772_n.jpg"
 date_format = "6 January 2006"
 description = "Non è con le chiacchiere che uscirai da questa merda"
 home = "Home"

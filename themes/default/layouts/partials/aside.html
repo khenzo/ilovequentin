@@ -5,7 +5,7 @@
             <h3 class="h6">Latest Posts</h3>
         </header>
         <div class="blog-posts">
-            {{ range first 5 .Site.Pages }}
+            {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
             <a href="{{.Permalink}}">
                 <div class="item d-flex align-items-center">
                     <div class="image"><img src="{{.Params.featured_image }}"  class="img-fluid"></div>

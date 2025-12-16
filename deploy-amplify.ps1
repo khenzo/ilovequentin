@@ -11,7 +11,7 @@ $APP_NAME = "ilovequentin"
 $GITHUB_REPO = "https://github.com/khenzo/ilovequentin"
 $BRANCH_NAME = "master"
 $DOMAIN_NAME = "ilovequentin.it"
-$REGION = "us-east-1"
+$REGION = "eu-central-1"
 
 Write-Host "Configuration:" -ForegroundColor Yellow
 Write-Host "  App Name: $APP_NAME"

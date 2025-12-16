@@ -4,7 +4,7 @@ author: khenzo
 type: post
 date: 2014-02-08T12:46:45+00:00
 draft: true
-url: /?p=1889
+url: /2014/02/08/farsene-presto-una-ragione
 ographr_urls:
   - '[{"img":"http://www.ilovequentin.it/wp-content/uploads/2014/02/2639956721_b5cd58beac_b-300x208.jpg"},{"img":"http://www.ilovequentin.it/wp-content/uploads/2014/02/346261705_c60d84d418_b-300x225.jpg"}]'
 ographr_indexed:

@@ -4,7 +4,7 @@ author: khenzo
 type: post
 date: 2012-12-21T00:00:00+00:00
 draft: true
-url: /?p=1725
+url: /2012/12/21/sogno-di-un-telaio-di-bici
 categories:
   - Featured
   - Ultimo post a Milano

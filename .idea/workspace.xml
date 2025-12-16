@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe3c5e0-f074-452f-b6ca-2f8f20e2e1e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/default/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/default/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/disclaimer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/mi-piacciono-di-piu/2011-05-09-finche-non-resta-niente.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/mi-piacciono-di-piu/2011-05-09-finche-non-resta-niente.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/planet-terron/2014-02-08-farsene-presto-una-ragione.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/planet-terron/2014-02-08-farsene-presto-una-ragione.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/planet-terron/omero-paziente.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/planet-terron/perche-noi-del-sud-i-fiumi..html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ultimo-post-a-milano/2012-12-21-ultima-volta.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/ultimo-post-a-milano/2012-12-21-ultima-volta.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ultimo-post-a-milano/farsi-fregare..html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ultimo-post-a-milano/gettonarsi-alla-cassa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/privacy-policy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy-amplify.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/deploy-amplify.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/uploads/wp-content/uploads/2011/01/server-conf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/layouts/blog/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/default/layouts/blog/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/layouts/page/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/default/layouts/page/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/layouts/partials/aside.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/default/layouts/partials/aside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/default/layouts/post/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/default/layouts/post/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "khenzo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/khenzo/ilovequentin.git",
+    "accountId": "a6c8700c-65a2-41bd-8928-e988ae553e6c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
@@ -19,23 +53,38 @@
     <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="1nEq9xk1k6txgSnwGY5qnKA2HaB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/default/layouts" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/blog/ilovequentin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\hugo\ilovequentin\themes\default\layouts" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -51,16 +100,11 @@
       <workItem from="1576763621368" duration="3279000" />
       <workItem from="1610965451954" duration="45000" />
       <workItem from="1610967777079" duration="3873000" />
+      <workItem from="1765883319613" duration="1949000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2518" y="281" key="MultipleFileMergeDialog" timestamp="1610973339127">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2518" y="281" key="MultipleFileMergeDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610973339127" />
   </component>
 </project>
