@@ -1,5 +1,6 @@
+baseURL = "https://master.d23qr8rixqgzkl.amplifyapp.com/"
 features = []
-homepage = "http://ilovequentin.it/"
+homepage = "https://ilovequentin.it/"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
 min_version = "0.38"

@@ -16,19 +16,19 @@
     {{ $description_plain := default .Site.Params.defaultDescription .Description | markdownify | plainify }}
     <meta name="description" content="{{ $description_plain }}">
 
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}vendor/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome CSS-->
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}vendor/font-awesome/css/font-awesome.min.css">
     <!-- Custom icon font-->
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/fontastic.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fontastic.css">
     <!-- Google fonts - Open Sans-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
     <!-- Fancybox-->
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/@fancyapps/fancybox/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}vendor/@fancyapps/fancybox/jquery.fancybox.min.css">
     <!-- theme stylesheet-->
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.default.css" id="theme-stylesheet">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.default.css" id="theme-stylesheet">
     <!-- Custom stylesheet - for your changes-->
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/custom.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
     <!-- Favicon-->
     <link rel="shortcut icon" href="favicon.png">
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
