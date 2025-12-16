@@ -6,6 +6,9 @@ resources/_gen/
 # Claude Code
 .claude/
 
+# AWS Amplify
+.amplify-app-id
+
 # OS files
 .DS_Store
 Thumbs.db
