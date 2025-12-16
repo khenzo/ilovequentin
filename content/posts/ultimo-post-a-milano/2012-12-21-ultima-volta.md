@@ -2,7 +2,7 @@
 title: Sogno di un telaio di bici
 author: khenzo
 type: post
-date: -001-11-30T00:00:00+00:00
+date: 2012-12-21T00:00:00+00:00
 draft: true
 url: /?p=1725
 categories:

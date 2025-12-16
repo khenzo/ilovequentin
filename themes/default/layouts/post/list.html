@@ -1,7 +1,7 @@
 {{ define "featured" }}
-    {{ range $i,$p := first 3 (where .Data.Pages.ByDate.Reverse "Section" "posts") }}
+    {{ range $i,$p := first 3 (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}
         <div class="row d-flex align-items-stretch">
-            {{if  not (modBool $i 2)}}
+            {{if eq (mod $i 2) 0}}
             <div class="image col-lg-5"><img src="{{ .Params.featured_image }}" alt="..."></div>
             {{ end }}
             <div class="text col-lg-7">
@@ -25,12 +25,12 @@
                     </div>
                 </div>
             </div>
-            {{if  (modBool $i 2)}}
+            {{if ne (mod $i 2) 0}}
             <div class="image col-lg-5"><img src="{{ .Params.featured_image }}" alt="..."></div>
             {{ end }}
         </div>
     {{ end }}
-{{ range last 1 (where .Data.Pages "Section" "features") }}
+{{ range last 1 (where .Site.RegularPages "Section" "features") }}
 <div class="feature-screen">
     <img src="{{.Params.image}}" alt="" class="img-responsive img-center">
 </div>
@@ -39,7 +39,7 @@
 
 {{ define "mybest" }}
     {{ $.Scratch.Set "count" 0 }}
-    {{ range (where .Data.Pages.ByDate.Reverse "Section" "posts") }}
+    {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "posts") }}
         {{ if in .Params.categories "Mi piacciono di più" }}
             {{ $.Scratch.Add "count" 1 }}
             {{$count := $.Scratch.Get "count"}}

@@ -1,0 +1,19 @@
+# Hugo build artifacts
+public/
+.hugo_build.lock
+resources/_gen/
+
+# Claude Code
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log

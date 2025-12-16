@@ -10,8 +10,12 @@
         <main class="post blog-post col-lg-8"> 
           <div class="container">
             <div class="post-single">
-              {{ if isset .Params "featured_image" }}
-                <div class="post-thumbnail"><img src="{{.Params.featured_image}}" alt="..." class="img-fluid"></div>
+              {{ if .Params.featured_image }}
+                {{ $featuredImage := .Params.featured_image }}
+                {{ if reflect.IsSlice $featuredImage }}
+                {{ $featuredImage = index $featuredImage 0 }}
+                {{ end }}
+                <div class="post-thumbnail"><img src="{{$featuredImage}}" alt="..." class="img-fluid"></div>
               {{ end }}
               <div class="post-details">
                 <div class="post-meta d-flex justify-content-between">
